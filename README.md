@@ -50,6 +50,7 @@
   * Email: lex4736@gmail.com
   * GitHub Profile: [https://github.com/lex4736]
   * GitHub Username: lex4736
+  * Heroku: https://mixtapegeneration.herokuapp.com/
 
   Lara Zegart
   * Email: laraezegart@gmail.com
