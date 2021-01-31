@@ -38,13 +38,6 @@ li {
   grid-gap: 40px;
   height: 100vh;
 }
-
-
-/* .holy-grail-header {
-    background-color: white;
-    margin: 0 auto;
-    padding-top: 25px;
-} */
 .img01 {
   width: 50px;
   height: 60px;
@@ -55,6 +48,12 @@ li {
   align-content: left;
   padding-top: 50px;
   padding-bottom: 10px;
+}
+.img03 {
+  border: 1px solid #ddd; 
+  border-radius: 4px; 
+  padding: 3px; 
+  width: 300px; 
 }
 h1 {
   margin-top: 0px;
@@ -102,15 +101,9 @@ h6 {
     border-style: double;
     padding-top: 10px;
     padding-left: 20px;
-    /* padding-right: 30px; */
-    /* border-radius: 15px 50px 30px 5px; */
+    width: 1100px;
+    border-radius: 15px 50px 30px 5px;
 }
-/* .holy-grail-right,
-.holy-grail-footer {
-  padding: 1rem;
-  border: none;
-  background-color: white;
-} */
 
 .holy-grail-header {
   -ms-grid-column: 1;
@@ -159,9 +152,6 @@ h6 {
   padding-left: 100px;
   align-content: left;
 }
-.mncontent {
-  text-align: left;
-}
 .list-group {
   width: 500px;
   align-items: left;
@@ -173,4 +163,7 @@ h6 {
 }
 .side {
   align-content: left;
+}
+#bottom {
+  align-content: right;
 }
