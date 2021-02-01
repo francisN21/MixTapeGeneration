@@ -39,21 +39,26 @@
   Lucah Endicott 
   * Email: lucahdavid88@gmail.com
   * GitHub Profile: [https://github.com/lucahendicott]
-  * GitHub Username: lucahendicott
+  * GitHub Username: 
+  * Heroku: https://mixtapegeneration.herokuapp.com/
 
   Francisco Rones
   * Email: iNinorones@gmail.com
   * GitHub Profile: [https://github.com/francisN21]
   * GitHub Username: francisN21
+  * Heroku: https://mixtapegeneration.herokuapp.com/
 
   Alexis
   * Email: lex4736@gmail.com
   * GitHub Profile: [https://github.com/lex4736]
   * GitHub Username: lex4736
+  * Heroku: https://mixtapegeneration.herokuapp.com/
 
   Lara Zegart
   * Email: laraezegart@gmail.com
   * GitHub Profile: [https://github.com/lzegart]
   * GitHub Username: lzegart
+  * Heroku: https://mixtapegeneration.herokuapp.com/
+
 
   
